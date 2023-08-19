@@ -1,5 +1,7 @@
 # Flight Ticket Booking
 
+---
+
 ## Problem Statement
 An Airline operates multiple flights for different locations. Write a basic ticket booking program for their flights.
 
