@@ -23,12 +23,14 @@ Class.
     <br>
     This means, <br>
   12 rows of business class tickets with seating arrangements like, <br>
-      WA AMA AW WA AMA AW ..... 9 more rows <br>
+      WA AMA AW <br> 
+      WA AMA AW <br> 
+      ..... 9 more rows <br>
     <br>
   20 rows of Economy class tickets with seating arrangements like, <br> 
     WMA AMMA AMMW <br>
-      WMA AMMA AMMW
-      .... 17 more rows <br>
+    WMA AMMA AMMW <br>
+    .... 17 more rows <br>
     <br>
     W - Window <br>
     M - Middle <br>
